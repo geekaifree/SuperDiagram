@@ -9,7 +9,7 @@
 ### Installations- und Bedienungsanleitung
 ### Guida all’installazione e all’uso
 ### Руководство по установке и использовани
-ह### स्थापना और उपयोग विधि
+### स्थापना और उपयोग विधि
 ### คู่มือการติดตั้งและใช้งาน
 ### Hướng dẫn cài đặt và sử dụng
 ### Panduan Pemasangan dan Penggunaan
